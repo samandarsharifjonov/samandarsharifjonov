@@ -1,4 +1,4 @@
-![Blue and Black Penguin Plush Toy](https://github.com/samandarsharifjonov/samandarsharifjonov/blob/main/photo_2024-11-22_19-30-48.jpg)
+
 
 
 ## About Me
@@ -13,7 +13,7 @@
 
 ## My Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samandar017)
+
 
 [![wakatime](https://wakatime.com/badge/user/325414bc-e4bb-4da8-8501-983da82b883f.svg)](https://wakatime.com/@325414bc-e4bb-4da8-8501-983da82b883f)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samandarsharifjonov.samandarsharifjonov)
