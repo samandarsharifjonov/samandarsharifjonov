@@ -16,7 +16,10 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/325414bc-e4bb-4da8-8501-983da82b883f.svg)](https://wakatime.com/@325414bc-e4bb-4da8-8501-983da82b883f)
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samandarsharifjonov.samandarsharifjonov)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samandar017)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samandarsharifjonov&show_icons=true&theme=radical)
 
