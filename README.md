@@ -17,7 +17,6 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samandarsharifjonov.samandarsharifjonov)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=samandar017)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samandarsharifjonov&show_icons=true&theme=radical)
 
