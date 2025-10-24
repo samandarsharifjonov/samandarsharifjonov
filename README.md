@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/samandarsharifjonov/samandarsharifjonov/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
