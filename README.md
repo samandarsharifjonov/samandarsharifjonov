@@ -1,17 +1,27 @@
 
 
 
-## About Me
+<h2 align="left">Hi 👋!  My name is Samandarbek</h2>
 
-👋 Hello, my name is Samandar, and I am a Flutter developer.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+</div>
 
-📚 Completed an intensive Flutter course, gaining hands-on experience in creating responsive, feature-rich, and visually appealing applications for both Android and iOS platforms.
+###
 
-💻 Adept at implementing best coding practices, troubleshooting issues, and optimizing app performance.
+<br clear="both">
 
-🚀 Seeking an opportunity to contribute technical skills and grow within a dynamic team environment.
+<img src="https://raw.githubusercontent.com/samandarsharifjonov/samandarsharifjonov/output/snake.svg" alt="Snake animation" />
 
-## My Stats
+###
 
 
 
