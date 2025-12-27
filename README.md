@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Flutter & Dart<br>• State Management: BLoC, Cubit, <br>• Provider<br>• REST API Integration<br>• Local Storage: SharedPreferences,<br> • Hive<br>• Firebase: Authentication, Firestore, <br>• Cloud Messaging (Push Notifications)<br>• Git / GitHub<br>• Clean, scalable, and maintainable project architecture</p>
+<p align="left">• Flutter & Dart<br>• State Management: BLoC, Cubit, <br>• Provider<br>• REST API Integration<br>• Local Storage: SharedPreferences, hive<br> • Firebase: Authentication, Firestore, <br>• Cloud Messaging (Push Notifications)<br>• Git / GitHub<br>• Clean, scalable, and maintainable project architecture</p>
 
 ###
 
