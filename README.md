@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Mobile Application Developer with more than 1 year of experience building cross-platform applications using Flutter and Dart.<br>During this time, I have worked on real-world projects where I implemented modern state management solutions, integrated REST APIs, and created user-friendly, visually appealing mobile interfaces.</p>
+<p align="left">I am a Mobile Application Developer with more than 2 year of experience building cross-platform applications using Flutter and Dart.<br>During this time, I have worked on real-world projects where I implemented modern state management solutions, integrated REST APIs, and created user-friendly, visually appealing mobile interfaces.</p>
 
 ###
 
